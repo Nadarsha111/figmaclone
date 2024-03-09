@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@liveblocks/client": "^1.10.0",
-    "@liveblocks/react": "^1.10.0",
+    "@liveblocks/client": "^1.10.2",
+    "@liveblocks/react": "^1.10.2",
     "@liveblocks/react-comments": "^1.10.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
